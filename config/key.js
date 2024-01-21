@@ -1,5 +1,5 @@
 module.exports = {
-    MongoURI: "mongodb+srv://sudhanshukrishna3:nWkrppvdUD65mtJL@sudhanshu.bm2sktl.mongodb.net/"
+    MongoURI: "mongodb+srv://node_js-auth:NB5CD1XpVcUfOH6F@cluster0.cysdxrq.mongodb.net/"
 }
 
 // // mongodb://127.0.0.1:27017/codeial
